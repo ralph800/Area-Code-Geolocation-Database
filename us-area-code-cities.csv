@@ -54,7 +54,6 @@
 207,Brunswick,Maine,US,43.91452,-69.96533
 207,Lewiston,Maine,US,44.10035,-70.21478
 207,"South Portland",Maine,US,43.64147,-70.24088
-207,"South Portland",Maine,US,43.64147,-70.24088
 208,Boise,Idaho,US,43.6135,-116.20345
 208,Caldwell,Idaho,US,43.66294,-116.68736
 208,"Coeur d'Alene",Idaho,US,47.67768,-116.78047
@@ -76,7 +75,6 @@
 209,Tracy,California,US,37.73987,-121.42618
 209,Turlock,California,US,37.49466,-120.84659
 210,"San Antonio",Texas,US,29.42412,-98.49363
-212,"New York City","New York",US,40.71427,-74.00597
 212,"New York City","New York",US,40.71427,-74.00597
 213,"Los Angeles",California,US,34.05223,-118.24368
 214,Allen,Texas,US,33.10317,-96.67055
@@ -108,14 +106,12 @@
 216,"Brook Park",Ohio,US,41.39838,-81.80458
 216,"East Cleveland",Ohio,US,41.53311,-81.57901
 216,"Cleveland Heights",Ohio,US,41.52005,-81.55624
-216,"East Cleveland",Ohio,US,41.53311,-81.57901
 216,"South Euclid",Ohio,US,41.52311,-81.51846
 216,"Garfield Heights",Ohio,US,41.417,-81.60596
 216,Lakewood,Ohio,US,41.48199,-81.79819
 216,"Maple Heights",Ohio,US,41.41533,-81.56596
 216,Parma,Ohio,US,41.40477,-81.72291
 216,"Shaker Heights",Ohio,US,41.47394,-81.53707
-216,"South Euclid",Ohio,US,41.52311,-81.51846
 217,Champaign,Illinois,US,40.11642,-88.24338
 217,Charleston,Illinois,US,39.49615,-88.17615
 217,Danville,Illinois,US,40.12448,-87.63002
@@ -211,7 +207,6 @@
 239,"Golden Gate",Florida,US,26.18787,-81.69509
 239,"Lehigh Acres",Florida,US,26.62535,-81.6248
 239,Naples,Florida,US,26.14234,-81.79596
-239,"North Fort Myers",Florida,US,26.66729,-81.88009
 240,"Aspen Hill",Maryland,US,39.07955,-77.07303
 240,"North Bethesda",Maryland,US,39.04455,-77.11887
 240,Bowie,Maryland,US,38.94278,-76.73028
@@ -228,14 +223,12 @@
 240,Hagerstown,Maryland,US,39.64176,-77.71999
 240,Landover,Maryland,US,38.934,-76.89664
 240,"Montgomery Village",Maryland,US,39.17677,-77.19526
-240,"North Bethesda",Maryland,US,39.04455,-77.11887
 240,"South Laurel",Maryland,US,39.06983,-76.85025
 240,"North Potomac",Maryland,US,39.08289,-77.26498
 240,Olney,Maryland,US,39.15316,-77.06692
 240,Potomac,Maryland,US,39.01817,-77.20859
 240,Rockville,Maryland,US,39.084,-77.15276
 240,"Silver Spring",Maryland,US,38.99067,-77.02609
-240,"South Laurel",Maryland,US,39.06983,-76.85025
 240,"Saint Charles",Maryland,US,38.60317,-76.93858
 240,Suitland,Maryland,US,38.84872,-76.92386
 240,Waldorf,Maryland,US,38.62456,-76.93914
@@ -252,7 +245,6 @@
 248,Southfield,Michigan,US,42.47337,-83.22187
 248,Troy,Michigan,US,42.60559,-83.14993
 248,Waterford,Michigan,US,42.69303,-83.41181
-248,"West Bloomfield Township",Michigan,US,42.56891,-83.38356
 251,Mobile,Alabama,US,30.69436,-88.04305
 251,Prichard,Alabama,US,30.7388,-88.07889
 252,Greenville,"North Carolina",US,35.61266,-77.36635
@@ -345,14 +337,12 @@
 301,Hagerstown,Maryland,US,39.64176,-77.71999
 301,Landover,Maryland,US,38.934,-76.89664
 301,"Montgomery Village",Maryland,US,39.17677,-77.19526
-301,"North Bethesda",Maryland,US,39.04455,-77.11887
 301,"South Laurel",Maryland,US,39.06983,-76.85025
 301,"North Potomac",Maryland,US,39.08289,-77.26498
 301,Olney,Maryland,US,39.15316,-77.06692
 301,Potomac,Maryland,US,39.01817,-77.20859
 301,Rockville,Maryland,US,39.084,-77.15276
 301,"Silver Spring",Maryland,US,38.99067,-77.02609
-301,"South Laurel",Maryland,US,39.06983,-76.85025
 301,"Saint Charles",Maryland,US,38.60317,-76.93858
 301,Suitland,Maryland,US,38.84872,-76.92386
 301,Waldorf,Maryland,US,38.62456,-76.93914
@@ -410,7 +400,6 @@
 305,Miramar,Florida,US,25.98731,-80.23227
 305,Norland,Florida,US,25.94898,-80.21227
 305,"North Miami",Florida,US,25.89009,-80.18671
-305,"North Miami Beach",Florida,US,25.93315,-80.16255
 305,"Richmond West",Florida,US,25.6105,-80.42971
 305,"Richmond Heights",Florida,US,25.63149,-80.36894
 305,"South Miami Heights",Florida,US,25.59761,-80.38061
@@ -448,7 +437,6 @@
 310,"Redondo Beach",California,US,33.84918,-118.38841
 310,"Santa Monica",California,US,34.01945,-118.49119
 310,Torrance,California,US,33.83585,-118.34063
-310,"West Carson",California,US,33.82168,-118.29257
 312,"West Chicago",Illinois,US,41.88475,-88.20396
 313,"Allen Park",Michigan,US,42.25754,-83.21104
 313,Dearborn,Michigan,US,42.32226,-83.17631
@@ -659,7 +647,6 @@
 360,Longview,Washington,US,46.13817,-122.93817
 360,Marysville,Washington,US,48.05176,-122.17708
 360,"Mount Vernon",Washington,US,48.42122,-122.33405
-360,Marysville,Washington,US,48.05176,-122.17708
 360,Olympia,Washington,US,47.03787,-122.9007
 360,Vancouver,Washington,US,45.63873,-122.66149
 361,"Corpus Christi",Texas,US,27.80058,-97.39638
@@ -715,7 +702,6 @@
 401,Pawtucket,"Rhode Island",US,41.87871,-71.38256
 401,Providence,"Rhode Island",US,41.82399,-71.41283
 401,"West Warwick","Rhode Island",US,41.69689,-71.52194
-401,"West Warwick","Rhode Island",US,41.69689,-71.52194
 401,Woonsocket,"Rhode Island",US,42.00288,-71.51478
 402,Bellevue,Nebraska,US,41.13667,-95.89084
 402,Columbus,Nebraska,US,41.42973,-97.36838
@@ -727,10 +713,8 @@
 404,Atlanta,Georgia,US,33.749,-84.38798
 404,Candler-McAfee,Georgia,US,33.72672,-84.27246
 404,"College Park",Georgia,US,33.65344,-84.44937
-404,"College Park",Georgia,US,33.65344,-84.44937
 404,"East Point",Georgia,US,33.67955,-84.43937
 404,"Forest Park",Georgia,US,33.62205,-84.36909
-404,Atlanta,Georgia,US,33.749,-84.38798
 404,"Sandy Springs",Georgia,US,33.92427,-84.37854
 404,Tucker,Georgia,US,33.85455,-84.21714
 405,Bethany,Oklahoma,US,35.51867,-97.63226
@@ -823,13 +807,11 @@
 413,Northampton,Massachusetts,US,42.32509,-72.6412
 413,Pittsfield,Massachusetts,US,42.45008,-73.24538
 413,"West Springfield",Massachusetts,US,42.10704,-72.62037
-413,"West Springfield",Massachusetts,US,42.10704,-72.62037
 413,Westfield,Massachusetts,US,42.12509,-72.74954
 414,Franklin,Wisconsin,US,42.88863,-88.03842
 414,Greenfield,Wisconsin,US,42.9614,-88.01259
 414,"South Milwaukee",Wisconsin,US,42.91057,-87.86064
 414,"Oak Creek",Wisconsin,US,42.88585,-87.86314
-414,"South Milwaukee",Wisconsin,US,42.91057,-87.86064
 414,Wauwatosa,Wisconsin,US,43.04946,-88.00759
 414,"West Allis",Wisconsin,US,43.01668,-88.00703
 415,Novato,California,US,38.10742,-122.5697
@@ -867,7 +849,6 @@
 424,"Redondo Beach",California,US,33.84918,-118.38841
 424,"Santa Monica",California,US,34.01945,-118.49119
 424,Torrance,California,US,33.83585,-118.34063
-424,"West Carson",California,US,33.82168,-118.29257
 425,Bellevue,Washington,US,47.61038,-122.20068
 425,Bothell,Washington,US,47.76232,-122.2054
 425,Fairwood,Washington,US,47.76684,-117.41744
@@ -1019,7 +1000,6 @@
 501,"Hot Springs",Arkansas,US,34.5037,-93.05518
 501,Jacksonville,Arkansas,US,34.8662,-92.11015
 501,"North Little Rock",Arkansas,US,34.76954,-92.26709
-501,"North Little Rock",Arkansas,US,34.76954,-92.26709
 501,Sherwood,Arkansas,US,34.81509,-92.22432
 502,Frankfort,Kentucky,US,38.20091,-84.87328
 502,Louisville,Kentucky,US,38.25424,-85.75941
@@ -1107,7 +1087,6 @@
 515,"West Des Moines",Iowa,US,41.57721,-93.71133
 515,"Fort Dodge",Iowa,US,42.49747,-94.16802
 515,Urbandale,Iowa,US,41.62666,-93.71217
-515,"West Des Moines",Iowa,US,41.57721,-93.71133
 516,Baldwin,"New York",US,40.65649,-73.6093
 516,"East Meadow","New York",US,40.71399,-73.55902
 516,Elmont,"New York",US,40.70094,-73.71291
@@ -1264,7 +1243,6 @@
 571,Oakton,Virginia,US,38.88095,-77.30082
 571,Reston,Virginia,US,38.96872,-77.3411
 571,"West Springfield",Virginia,US,38.77261,-77.22109
-571,"West Springfield",Virginia,US,38.77261,-77.22109
 573,"Cape Girardeau",Missouri,US,37.30588,-89.51815
 573,Columbia,Missouri,US,38.95171,-92.33407
 573,"Jefferson City",Missouri,US,38.5767,-92.17352
@@ -1406,7 +1384,6 @@
 623,Glendale,Arizona,US,33.53865,-112.18599
 623,Peoria,Arizona,US,33.5806,-112.23738
 623,"Sun City West",Arizona,US,33.66198,-112.34127
-623,"Sun City West",Arizona,US,33.66198,-112.34127
 623,Surprise,Arizona,US,33.63059,-112.33322
 626,Alhambra,California,US,34.09529,-118.12701
 626,Altadena,California,US,34.18973,-118.13118
@@ -1425,13 +1402,10 @@
 626,Rosemead,California,US,34.08057,-118.07285
 626,"Rowland Heights",California,US,33.97612,-117.90534
 626,"South San Gabriel",California,US,34.04915,-118.09462
-626,"South El Monte",California,US,34.05195,-118.04673
-626,"South Pasadena",California,US,34.11612,-118.15035
 626,"South San Jose Hills",California,US,34.01279,-117.90478
 626,"Temple City",California,US,34.10723,-118.05785
 626,Valinda,California,US,34.04529,-117.94367
 626,Walnut,California,US,34.02029,-117.86534
-626,"West Covina",California,US,34.06862,-117.93895
 626,"West Puente Valley",California,US,34.05168,-117.9684
 628,Novato,California,US,38.10742,-122.5697
 628,"San Anselmo",California,US,37.97465,-122.56164
@@ -1492,7 +1466,6 @@
 631,Shirley,"New York",US,40.80149,-72.8676
 631,Smithtown,"New York",US,40.85593,-73.20067
 631,"West Babylon","New York",US,40.71816,-73.35429
-631,"West Islip","New York",US,40.70621,-73.30623
 636,Ballwin,Missouri,US,38.59505,-90.54623
 636,Chesterfield,Missouri,US,38.66311,-90.57707
 636,O'Fallon,Missouri,US,38.81061,-90.69985
@@ -1502,7 +1475,6 @@
 641,Marshalltown,Iowa,US,42.04943,-92.90798
 641,"Mason City",Iowa,US,43.15357,-93.20104
 641,Ottumwa,Iowa,US,41.02001,-92.4113
-646,"New York City","New York",US,40.71427,-74.00597
 646,"New York City","New York",US,40.71427,-74.00597
 650,Belmont,California,US,37.52021,-122.2758
 650,Burlingame,California,US,37.5841,-122.36608
@@ -1608,7 +1580,6 @@
 678,Atlanta,Georgia,US,33.749,-84.38798
 678,Candler-McAfee,Georgia,US,33.72672,-84.27246
 678,"College Park",Georgia,US,33.65344,-84.44937
-678,"College Park",Georgia,US,33.65344,-84.44937
 678,Douglasville,Georgia,US,33.7515,-84.74771
 678,Duluth,Georgia,US,34.00288,-84.14464
 678,Dunwoody,Georgia,US,33.94621,-84.33465
@@ -1620,7 +1591,6 @@
 678,Lawrenceville,Georgia,US,33.95621,-83.98796
 678,Mableton,Georgia,US,33.81872,-84.58243
 678,Marietta,Georgia,US,33.9526,-84.54993
-678,Atlanta,Georgia,US,33.749,-84.38798
 678,"Peachtree City",Georgia,US,33.39678,-84.59576
 678,Redan,Georgia,US,33.74538,-84.13158
 678,Roswell,Georgia,US,34.02316,-84.36159
@@ -1654,7 +1624,6 @@
 701,Minot,"North Dakota",US,48.23251,-101.29627
 702,Henderson,Nevada,US,36.0397,-114.98194
 702,"North Las Vegas",Nevada,US,36.19886,-115.1175
-702,"North Las Vegas",Nevada,US,36.19886,-115.1175
 702,Paradise,Nevada,US,36.09719,-115.14666
 702,"Spring Valley",Nevada,US,36.10803,-115.245
 702,"Sunrise Manor",Nevada,US,36.21108,-115.07306
@@ -1677,7 +1646,6 @@
 703,"Mount Vernon",Virginia,US,38.71919,-77.10726
 703,Oakton,Virginia,US,38.88095,-77.30082
 703,Reston,Virginia,US,38.96872,-77.3411
-703,"West Springfield",Virginia,US,38.77261,-77.22109
 703,"West Springfield",Virginia,US,38.77261,-77.22109
 704,Charlotte,"North Carolina",US,35.22709,-80.84313
 704,Concord,"North Carolina",US,35.40888,-80.58158
@@ -1816,7 +1784,6 @@
 724,"Upper Saint Clair",Pennsylvania,US,40.3359,-80.08339
 725,Henderson,Nevada,US,36.0397,-114.98194
 725,"North Las Vegas",Nevada,US,36.19886,-115.1175
-725,"North Las Vegas",Nevada,US,36.19886,-115.1175
 725,Paradise,Nevada,US,36.09719,-115.14666
 725,"Spring Valley",Nevada,US,36.10803,-115.245
 725,"Sunrise Manor",Nevada,US,36.21108,-115.07306
@@ -1838,7 +1805,6 @@
 732,Lakewood,"New Jersey",US,40.09789,-74.21764
 732,"West Long Branch","New Jersey",US,40.29039,-74.01764
 732,"New Brunswick","New Jersey",US,40.48622,-74.45182
-732,"East Brunswick","New Jersey",US,40.42788,-74.41598
 732,"North Plainfield","New Jersey",US,40.6301,-74.42737
 732,"South Old Bridge","New Jersey",US,40.40816,-74.35432
 732,"Perth Amboy","New Jersey",US,40.50677,-74.26542
@@ -1950,7 +1916,6 @@
 765,Marion,Indiana,US,40.55837,-85.65914
 765,Muncie,Indiana,US,40.19338,-85.38636
 765,Richmond,Indiana,US,39.82894,-84.89024
-765,"West Lafayette",Indiana,US,40.42587,-86.90807
 769,Clinton,Mississippi,US,32.34153,-90.32176
 769,"West Hattiesburg",Mississippi,US,31.31906,-89.37506
 769,Jackson,Mississippi,US,32.29876,-90.18481
@@ -1971,7 +1936,6 @@
 770,Lawrenceville,Georgia,US,33.95621,-83.98796
 770,Mableton,Georgia,US,33.81872,-84.58243
 770,Marietta,Georgia,US,33.9526,-84.54993
-770,Atlanta,Georgia,US,33.749,-84.38798
 770,"Peachtree City",Georgia,US,33.39678,-84.59576
 770,Redan,Georgia,US,33.74538,-84.13158
 770,Roswell,Georgia,US,34.02316,-84.36159
@@ -2058,7 +2022,6 @@
 786,Miramar,Florida,US,25.98731,-80.23227
 786,Norland,Florida,US,25.94898,-80.21227
 786,"North Miami",Florida,US,25.89009,-80.18671
-786,"North Miami Beach",Florida,US,25.93315,-80.16255
 786,"Richmond West",Florida,US,25.6105,-80.42971
 786,"Richmond Heights",Florida,US,25.63149,-80.36894
 786,"South Miami Heights",Florida,US,25.59761,-80.38061
@@ -2237,7 +2200,6 @@
 843,"Hilton Head Island","South Carolina",US,32.21632,-80.75261
 843,"Mount Pleasant","South Carolina",US,32.79407,-79.86259
 843,"North Myrtle Beach","South Carolina",US,33.81601,-78.68002
-843,"North Charleston","South Carolina",US,32.85462,-79.97481
 843,Summerville,"South Carolina",US,33.0185,-80.17565
 845,Kingston,"New York",US,41.92704,-73.99736
 845,Middletown,"New York",US,41.44593,-74.42293
@@ -2283,7 +2245,6 @@
 848,Lakewood,"New Jersey",US,40.09789,-74.21764
 848,"West Long Branch","New Jersey",US,40.29039,-74.01764
 848,"New Brunswick","New Jersey",US,40.48622,-74.45182
-848,"East Brunswick","New Jersey",US,40.42788,-74.41598
 848,"North Plainfield","New Jersey",US,40.6301,-74.42737
 848,"South Old Bridge","New Jersey",US,40.40816,-74.35432
 848,"Perth Amboy","New Jersey",US,40.50677,-74.26542
@@ -2298,7 +2259,6 @@
 850,"Panama City",Florida,US,30.15946,-85.65983
 850,"West Pensacola",Florida,US,30.42659,-87.27969
 850,Tallahassee,Florida,US,30.43826,-84.28073
-850,"West Pensacola",Florida,US,30.42659,-87.27969
 850,Wright,Florida,US,30.45575,-86.63829
 856,Bridgeton,"New Jersey",US,39.42734,-75.23408
 856,Camden,"New Jersey",US,39.92595,-75.11962
@@ -2333,7 +2293,6 @@
 860,Newington,Connecticut,US,41.69788,-72.72371
 860,Norwich,Connecticut,US,41.52426,-72.07591
 860,"West Torrington",Connecticut,US,41.81843,-73.14372
-860,"West Hartford",Connecticut,US,41.76204,-72.74204
 860,Wethersfield,Connecticut,US,41.71427,-72.65259
 862,Belleville,"New Jersey",US,40.79371,-74.15014
 862,Bloomfield,"New Jersey",US,40.80677,-74.18542
@@ -2355,7 +2314,6 @@
 862,Paterson,"New Jersey",US,40.91677,-74.17181
 862,Wayne,"New Jersey",US,40.92538,-74.27654
 862,"West Milford","New Jersey",US,41.13121,-74.36737
-862,"West Orange","New Jersey",US,40.79871,-74.23904
 863,Lakeland,Florida,US,28.03947,-81.9498
 863,"Winter Haven",Florida,US,28.02224,-81.73286
 864,Anderson,"South Carolina",US,34.50344,-82.65013
@@ -2366,7 +2324,6 @@
 864,"Wade Hampton","South Carolina",US,34.90373,-82.33317
 865,Knoxville,Tennessee,US,35.96064,-83.92074
 865,Maryville,Tennessee,US,35.75647,-83.97046
-865,"Oak Ridge",Tennessee,US,36.01036,-84.26964
 865,"Oak Ridge",Tennessee,US,36.01036,-84.26964
 870,"El Dorado",Arkansas,US,33.20763,-92.66627
 870,Jonesboro,Arkansas,US,35.8423,-90.70428
@@ -2413,7 +2370,6 @@
 908,"South Plainfield","New Jersey",US,40.57927,-74.41154
 908,Roselle,"New Jersey",US,40.65223,-74.25882
 908,"Scotch Plains","New Jersey",US,40.65538,-74.38987
-908,"South Plainfield","New Jersey",US,40.57927,-74.41154
 908,Summit,"New Jersey",US,40.74149,-74.35959
 908,"Union City","New Jersey",US,40.77955,-74.02375
 908,Westfield,"New Jersey",US,40.65899,-74.34737
@@ -2477,10 +2433,8 @@
 916,Rosemont,California,US,38.55185,-121.36467
 916,Roseville,California,US,38.75212,-121.28801
 916,"West Sacramento",California,US,38.58046,-121.53023
-916,"West Sacramento",California,US,38.58046,-121.53023
 917,"The Bronx","New York",US,40.84985,-73.86641
 917,Brooklyn,"New York",US,40.6501,-73.94958
-917,"New York City","New York",US,40.71427,-74.00597
 917,"New York City","New York",US,40.71427,-74.00597
 917,"Borough of Queens","New York",US,40.68149,-73.83652
 917,"Staten Island","New York",US,40.56233,-74.13986
@@ -2503,7 +2457,6 @@
 920,Neenah,Wisconsin,US,44.18582,-88.46261
 920,Oshkosh,Wisconsin,US,44.02471,-88.54261
 920,Sheboygan,Wisconsin,US,43.75083,-87.71453
-920,Watertown,Wisconsin,US,43.19472,-88.72899
 920,Watertown,Wisconsin,US,43.19472,-88.72899
 925,Antioch,California,US,38.00492,-121.80579
 925,"Bay Point",California,US,38.02909,-121.96163
@@ -2568,7 +2521,6 @@
 941,"Port Charlotte",Florida,US,26.97617,-82.09064
 941,"Punta Gorda",Florida,US,26.92978,-82.04537
 941,Sarasota,Florida,US,27.33643,-82.53065
-941,"South Bradenton",Florida,US,27.4631,-82.58176
 947,"West Bloomfield Township",Michigan,US,42.56891,-83.38356
 947,"Farmington Hills",Michigan,US,42.48531,-83.37716
 947,Ferndale,Michigan,US,42.46059,-83.13465
@@ -2581,7 +2533,6 @@
 947,Southfield,Michigan,US,42.47337,-83.22187
 947,Troy,Michigan,US,42.60559,-83.14993
 947,Waterford,Michigan,US,42.69303,-83.41181
-947,"West Bloomfield Township",Michigan,US,42.56891,-83.38356
 949,"Aliso Viejo",California,US,33.56504,-117.72712
 949,"Costa Mesa",California,US,33.64113,-117.91867
 949,"Dana Point",California,US,33.46697,-117.69811
@@ -2652,7 +2603,6 @@
 959,Newington,Connecticut,US,41.69788,-72.72371
 959,Norwich,Connecticut,US,41.52426,-72.07591
 959,"West Torrington",Connecticut,US,41.81843,-73.14372
-959,"West Hartford",Connecticut,US,41.76204,-72.74204
 959,Wethersfield,Connecticut,US,41.71427,-72.65259
 970,"Fort Collins",Colorado,US,40.58526,-105.08442
 970,"Grand Junction",Colorado,US,39.06387,-108.55065
@@ -2714,7 +2664,6 @@
 973,Paterson,"New Jersey",US,40.91677,-74.17181
 973,Wayne,"New Jersey",US,40.92538,-74.27654
 973,"West Milford","New Jersey",US,41.13121,-74.36737
-973,"West Orange","New Jersey",US,40.79871,-74.23904
 978,Beverly,Massachusetts,US,42.55843,-70.88005
 978,Chelmsford,Massachusetts,US,42.59981,-71.36728
 978,Danvers,Massachusetts,US,42.57509,-70.93005
@@ -2755,12 +2704,10 @@
 989,Midland,Michigan,US,43.61558,-84.24721
 989,"Mount Pleasant",Michigan,US,43.59781,-84.76751
 989,Saginaw,Michigan,US,43.41947,-83.95081
-989,Saginaw,Michigan,US,43.41947,-83.95081
 854,"North Charleston","South Carolina",US,32.85462,-79.97481
 854,Florence,"South Carolina",US,34.19543,-79.76256
 854,"Goose Creek","South Carolina",US,32.98101,-80.03259
 854,"Hilton Head Island","South Carolina",US,32.21632,-80.75261
 854,"Mount Pleasant","South Carolina",US,32.79407,-79.86259
 854,"North Myrtle Beach","South Carolina",US,33.81601,-78.68002
-854,"North Charleston","South Carolina",US,32.85462,-79.97481
 854,Summerville,"South Carolina",US,33.0185,-80.17565
